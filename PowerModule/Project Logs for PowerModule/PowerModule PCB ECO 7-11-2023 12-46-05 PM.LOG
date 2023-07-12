@@ -1,0 +1,141 @@
+Change Component Footprint: Designator=C1_1.8V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C1_2.5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C1_3.3V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C1_5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C2_1.8V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C2_2.5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C2_3.3V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C2_5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C3_1.8V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C3_2.5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C3_3.3V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C3_5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C4_1.8V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C4_2.5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C4_3.3V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C4_5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C5_1.8V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C5_2.5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C5_3.3V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C5_5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C6_1.8V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C6_2.5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C6_3.3V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=C6_5V Old Footprint=CAPC3225X27M New Footprint=CAPC2012X14M
+Change Component Comment : Designator=C3_1.8V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C3_2.5V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C3_3.3V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C3_5V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C4_1.8V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C4_2.5V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C4_3.3V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C4_5V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C5_1.8V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C5_2.5V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C5_3.3V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C5_5V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C6_1.8V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C6_2.5V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C6_3.3V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change Component Comment : Designator=C6_5V Old Comment=47uF/16V New Comment=47uF/6.3V
+Change component parameters: Designator = "C1_1.8V" ("C1"); Footprint = "CAPC3225X27M"; UniqueID = "\BRVMZLJM\MHORGTDR" ("\BRVMZLJM\MHORGTDR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61E226ME13-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRT21BR61E226ME13L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_2.5V" ("C1"); Footprint = "CAPC3225X27M"; UniqueID = "\EFLGBCOK\MHORGTDR" ("\EFLGBCOK\MHORGTDR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61E226ME13-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRT21BR61E226ME13L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_3.3V" ("C1"); Footprint = "CAPC3225X27M"; UniqueID = "\TTYQUUBE\MHORGTDR" ("\TTYQUUBE\MHORGTDR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61E226ME13-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRT21BR61E226ME13L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_5V" ("C1"); Footprint = "CAPC3225X27M"; UniqueID = "\KCHMJUHO\MHORGTDR" ("\KCHMJUHO\MHORGTDR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61E226ME13-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRT21BR61E226ME13L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2_1.8V" ("C2"); Footprint = "CAPC3225X27M"; UniqueID = "\BRVMZLJM\VKFCOZXL" ("\BRVMZLJM\VKFCOZXL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61E226ME13-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRT21BR61E226ME13L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2_2.5V" ("C2"); Footprint = "CAPC3225X27M"; UniqueID = "\EFLGBCOK\VKFCOZXL" ("\EFLGBCOK\VKFCOZXL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61E226ME13-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRT21BR61E226ME13L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2_3.3V" ("C2"); Footprint = "CAPC3225X27M"; UniqueID = "\TTYQUUBE\VKFCOZXL" ("\TTYQUUBE\VKFCOZXL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61E226ME13-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRT21BR61E226ME13L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2_5V" ("C2"); Footprint = "CAPC3225X27M"; UniqueID = "\KCHMJUHO\VKFCOZXL" ("\KCHMJUHO\VKFCOZXL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61E226ME13-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRT21BR61E226ME13L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3_1.8V" ("C3"); Footprint = "CAPC3225X27M"; UniqueID = "\BRVMZLJM\FAZUCNME" ("\BRVMZLJM\FAZUCNME")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3_2.5V" ("C3"); Footprint = "CAPC3225X27M"; UniqueID = "\EFLGBCOK\FAZUCNME" ("\EFLGBCOK\FAZUCNME")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3_3.3V" ("C3"); Footprint = "CAPC3225X27M"; UniqueID = "\TTYQUUBE\FAZUCNME" ("\TTYQUUBE\FAZUCNME")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3_5V" ("C3"); Footprint = "CAPC3225X27M"; UniqueID = "\KCHMJUHO\FAZUCNME" ("\KCHMJUHO\FAZUCNME")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4_1.8V" ("C4"); Footprint = "CAPC3225X27M"; UniqueID = "\BRVMZLJM\NBOZGXTH" ("\BRVMZLJM\NBOZGXTH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4_2.5V" ("C4"); Footprint = "CAPC3225X27M"; UniqueID = "\EFLGBCOK\NBOZGXTH" ("\EFLGBCOK\NBOZGXTH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4_3.3V" ("C4"); Footprint = "CAPC3225X27M"; UniqueID = "\TTYQUUBE\NBOZGXTH" ("\TTYQUUBE\NBOZGXTH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4_5V" ("C4"); Footprint = "CAPC3225X27M"; UniqueID = "\KCHMJUHO\NBOZGXTH" ("\KCHMJUHO\NBOZGXTH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5_1.8V" ("C5"); Footprint = "CAPC3225X27M"; UniqueID = "\BRVMZLJM\JCMTLWUZ" ("\BRVMZLJM\JCMTLWUZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5_2.5V" ("C5"); Footprint = "CAPC3225X27M"; UniqueID = "\EFLGBCOK\JCMTLWUZ" ("\EFLGBCOK\JCMTLWUZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5_3.3V" ("C5"); Footprint = "CAPC3225X27M"; UniqueID = "\TTYQUUBE\JCMTLWUZ" ("\TTYQUUBE\JCMTLWUZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5_5V" ("C5"); Footprint = "CAPC3225X27M"; UniqueID = "\KCHMJUHO\JCMTLWUZ" ("\KCHMJUHO\JCMTLWUZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_1.8V" ("C6"); Footprint = "CAPC3225X27M"; UniqueID = "\BRVMZLJM\UJKFXFBB" ("\BRVMZLJM\UJKFXFBB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_2.5V" ("C6"); Footprint = "CAPC3225X27M"; UniqueID = "\EFLGBCOK\UJKFXFBB" ("\EFLGBCOK\UJKFXFBB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_3.3V" ("C6"); Footprint = "CAPC3225X27M"; UniqueID = "\TTYQUUBE\UJKFXFBB" ("\TTYQUUBE\UJKFXFBB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_5V" ("C6"); Footprint = "CAPC3225X27M"; UniqueID = "\KCHMJUHO\UJKFXFBB" ("\KCHMJUHO\UJKFXFBB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Added Room: Name=1.8V
+Added Room: Name=2.5V
+Added Room: Name=3.3V
+Added Room: Name=03 TOPOLOGY
+Added Room: Name=5V

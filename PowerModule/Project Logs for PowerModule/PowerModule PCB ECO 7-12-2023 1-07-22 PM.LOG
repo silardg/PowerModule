@@ -1,0 +1,76 @@
+Added Component: Designator=J1(2074190081)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/2074190081_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2074190081"; VariantName = "[No Variations]"
+Added Component: Designator=J4(2074190081)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/2074190081_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2074190081"; VariantName = "[No Variations]"
+Added Component: Designator=J5(2074190081)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/2074190081_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2074190081"; VariantName = "[No Variations]"
+Added Component: Designator=J6(2074190081)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/2074190081_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2074190081"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1005X04M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-0711KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=+5V Pin=J1-5
+Added Pin To Net: NetName=+5V Pin=J1-6
+Added Pin To Net: NetName=+5V Pin=J1-7
+Added Pin To Net: NetName=+5V Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-SHLD
+Added Pin To Net: NetName=GND Pin=J1-SHLD
+Added Pin To Net: NetName=GND Pin=J1-SHLD
+Added Pin To Net: NetName=GND Pin=J1-SHLD
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=+3V3 Pin=J4-5
+Added Pin To Net: NetName=+3V3 Pin=J4-6
+Added Pin To Net: NetName=+3V3 Pin=J4-7
+Added Pin To Net: NetName=+3V3 Pin=J4-8
+Added Pin To Net: NetName=GND Pin=J4-SHLD
+Added Pin To Net: NetName=GND Pin=J4-SHLD
+Added Pin To Net: NetName=GND Pin=J4-SHLD
+Added Pin To Net: NetName=GND Pin=J4-SHLD
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=+2V5 Pin=J5-5
+Added Pin To Net: NetName=+2V5 Pin=J5-6
+Added Pin To Net: NetName=+2V5 Pin=J5-7
+Added Pin To Net: NetName=+2V5 Pin=J5-8
+Added Pin To Net: NetName=GND Pin=J5-SHLD
+Added Pin To Net: NetName=GND Pin=J5-SHLD
+Added Pin To Net: NetName=GND Pin=J5-SHLD
+Added Pin To Net: NetName=GND Pin=J5-SHLD
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=+1V8 Pin=J6-5
+Added Pin To Net: NetName=+1V8 Pin=J6-6
+Added Pin To Net: NetName=+1V8 Pin=J6-7
+Added Pin To Net: NetName=+1V8 Pin=J6-8
+Added Pin To Net: NetName=GND Pin=J6-SHLD
+Added Pin To Net: NetName=GND Pin=J6-SHLD
+Added Pin To Net: NetName=GND Pin=J6-SHLD
+Added Pin To Net: NetName=GND Pin=J6-SHLD
+Added Pin To Net: NetName=NetQ1_1 Pin=R8-1
+Added Pin To Net: NetName=VIN Pin=R8-2
+Added Member To Class: ClassName=03 TOPOLOGY Member=Component J1 2074190081
+Added Member To Class: ClassName=03 TOPOLOGY Member=Component J4 2074190081
+Added Member To Class: ClassName=03 TOPOLOGY Member=Component J5 2074190081
+Added Member To Class: ClassName=03 TOPOLOGY Member=Component J6 2074190081
+Added Member To Class: ClassName=03 TOPOLOGY Member=Component R8 11k/1%
+Added Room: Name=03 TOPOLOGY

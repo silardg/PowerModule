@@ -1,0 +1,9 @@
+Part Number: 2074200081
+Engineering/Old PN: 207420-0081
+SlimStack Board-to-Board Connector, 0.80mm Pitch, Battery Series, Plug, 0.75mm Mated Height, 2.50mm Mated Width, 8 Circuits, 11.0A
+
+
+Part Number: 2074190081
+Engineering/Old PN: 207419-0081
+
+SlimStack Board-to-Board Connector, 0.80mm Pitch, Battery Series, Receptacle, 0.75mm Mated Height, 2.50mm Mated Width, 8 Circuits, 11.0A

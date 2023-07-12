@@ -1,0 +1,132 @@
+<mxfile host="app.diagrams.net" modified="2023-07-10T15:32:56.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="dWMux3mpxkcF9P68LrML" version="21.5.1" type="device">
+  <diagram name="Page-1" id="v1I4WAdUCyK2v9qU1_yc">
+    <mxGraphModel dx="657" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-1" target="poQPmo_kxg2JrNtwBbkQ-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="290" />
+              <mxPoint x="533" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-1" value="TPS62180" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-4" target="poQPmo_kxg2JrNtwBbkQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-4" value="Fuse - 3.5A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="285" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-10" value="5V@6A-85%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="250" width="118" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-20" target="poQPmo_kxg2JrNtwBbkQ-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="370" />
+              <mxPoint x="533" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-20" value="TPS62180" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-22" target="poQPmo_kxg2JrNtwBbkQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-22" value="Fuse - 2.5A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="355" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-23" value="3V3@6A-85%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="320" width="118" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-24" target="poQPmo_kxg2JrNtwBbkQ-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="430" />
+              <mxPoint x="533" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-24" value="TPS62180" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-26" target="poQPmo_kxg2JrNtwBbkQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-26" value="Fuse - 2A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="425" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-27" value="2V5@6A-85%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="390" width="118" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-28" target="poQPmo_kxg2JrNtwBbkQ-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="510" />
+              <mxPoint x="533" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-28" value="TPS62180" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-30" target="poQPmo_kxg2JrNtwBbkQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-30" value="Fuse - 0.9A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="495" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-31" value="1V2@6A-85%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="460" width="118" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="508.03" y="310" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.molex.com/content/dam/molex/molex-dot-com/products/manual/en-us/images/207/207419/2074190081_hires.jpg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png;" vertex="1" parent="1">
+          <mxGeometry x="510.01" y="312.75" width="46.05" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="508.03" y="450" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.molex.com/content/dam/molex/molex-dot-com/products/manual/en-us/images/207/207419/2074190081_hires.jpg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png;" vertex="1" parent="1">
+          <mxGeometry x="510.01" y="452.75" width="46.05" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-45" value="Summed Max Power 72W" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="540" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-50" value="10V@7.2A&lt;br&gt;12V@6A&lt;br&gt;&lt;br&gt;10V minimum&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;15V maximum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90.01" y="430.5" width="90" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-51" target="poQPmo_kxg2JrNtwBbkQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-51" target="poQPmo_kxg2JrNtwBbkQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-51" target="poQPmo_kxg2JrNtwBbkQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="poQPmo_kxg2JrNtwBbkQ-51" target="poQPmo_kxg2JrNtwBbkQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.molex.com/content/dam/molex/molex-dot-com/products/manual/en-us/images/207/207419/2074190081_hires.jpg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png;" vertex="1" parent="1">
+          <mxGeometry x="111.98000000000002" y="382.75" width="46.05" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-57" value="5V &amp;amp; 3V3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="558.03" y="320" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="poQPmo_kxg2JrNtwBbkQ-58" value="2V5 &amp;amp; 1V2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="558.03" y="460" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

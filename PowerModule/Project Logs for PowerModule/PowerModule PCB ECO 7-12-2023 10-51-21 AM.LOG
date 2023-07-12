@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VIN Pin=J3-1
+Removed Pin From Net: NetName=VIN Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=VIN Pin=J3-6
+Added Pin To Net: NetName=VIN Pin=J3-7
+Added Member To Class: ClassName=1.8V Member=Component C1_1.8V (C1) 22uF/25V
+Added Room: Name=03 TOPOLOGY
