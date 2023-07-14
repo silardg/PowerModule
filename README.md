@@ -36,3 +36,4 @@ Bottom Layer
 ![1](PowerModule/PDNAnalyzer_Output/PowerModule/Simulation/HTMLReport/ImagesCache/007.png)
 
 The biggest concentration of current is with the eFuse. 
+Only one of the regulators (the highest power one) was simulated, as others have the same layout and will have lower consumption than the 5V; 6A regulator. 
