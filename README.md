@@ -10,9 +10,8 @@
 - 6A maximum output
 
 ### **2074190081**
-
-
-
+- Low profile 
+- 4x2 pins for power
 
 ## Block Diagram
 ![Block Diagram](Docs/blockdiagram.drawio.png)
