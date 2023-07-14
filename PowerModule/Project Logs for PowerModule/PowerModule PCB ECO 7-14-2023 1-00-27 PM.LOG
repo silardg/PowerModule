@@ -1,0 +1,12 @@
+Change component parameters: Designator = "U2" ("U2"); Footprint = "QFN45P200X200X100-16L"; UniqueID = "\IPPFCJRP" ("\IPPFCJRP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/tps2597.pdf?ts=1689264287849&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "TPS25970ARPWR"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(194, 123, 160)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(142, 124, 195)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(109, 158, 235)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(118, 165, 175)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 217, 102)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(182, 215, 168)
+Added Member To Class: ClassName=03 TOPOLOGY Member=Component J6 2074190081
+Added Room: Name=03 TOPOLOGY
