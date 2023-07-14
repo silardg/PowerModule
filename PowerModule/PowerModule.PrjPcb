@@ -133,62 +133,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBTTXLEQ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for PowerModule\Design Rule Check - PowerModule.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PowerModule\PowerModule.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for PowerModule\PowerModule.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for PowerModule\PowerModule.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GM
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for PowerModule\PowerModule.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for PowerModule\PowerModule.REP
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Engineer_Email
 Value=contact@silardgal.com

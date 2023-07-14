@@ -5,4 +5,3 @@ Record=SheetSymbol|SourceDocument=03 TOPOLOGY.SchDoc|Designator=3.3V|SchDesignat
 Record=SheetSymbol|SourceDocument=03 TOPOLOGY.SchDoc|Designator=5V|SchDesignator=5V|FileName=04 REGULATORS.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=04 REGULATORS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=NoMainPathDocument|SourceDocument=03 TOPOLOGY.SchDoc|FileName=01 COVER PAGE.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=03 TOPOLOGY.SchDoc|FileName=02 BLOCK DIAGRAM.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=03 TOPOLOGY.SchDoc|FileName=05 MISC.SchDoc|SheetNumber=5
